@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayan 👋</h1>
 
 <p align="center">
-  <b>Backend Developer · .NET · Go · PHP</b><br>
+  <b>Backend Developer · .NET · GO · PHP</b><br>
   Vue.js on the frontend · Almaty, Kazakhstan
 </p>
 

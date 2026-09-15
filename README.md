@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend Developer · .NET · GO · PHP</b><br>
-  Vue.js on the frontend · Almaty, Kazakhstan
+  Almaty, Kazakhstan
 </p>
 
 <p align="center">

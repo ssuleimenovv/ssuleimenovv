@@ -11,31 +11,13 @@
   <a href="https://leetcode.com/u/ssuleimenovv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
-## About me
+## About Myself
 
 - ⚙️ Backend is my strong side: services and REST APIs in **C# / .NET**, **Go** (Echo, Gin) and **PHP** (Yii2, Laravel)
 - 🖼️ On the frontend I always use **Vue.js**: Vue 3, Pinia, Vite, Tailwind CSS
 - 🧩 Microservices and event-driven workflows with RabbitMQ; PostgreSQL, MySQL, MSSQL, Redis, MongoDB
 - 📐 System analysis background: BPMN, ERD and UML diagrams, API specifications
 - 🎓 BSc in Computer Science, KBTU (2022–2026)
-
-## Projects
-
-### 🏛️ [Abai Digital](https://abai.digital)
-
-The unified digital platform of Abai University: students, curricula, orders, HR, diplomas and transcripts in one system.
-
-- **Backend:** PHP 8.2 / Yii2 REST API on MySQL, integrated with the national higher education database (EPVO), the legacy Univer system (MSSQL) and S3 storage
-- **Frontend:** Vue 3 SPA with Pinia, Vite and Tailwind CSS
-- **What I did:** a unified pagination format across the whole API, moving file uploads to S3, a graduates archive that combines Abai Digital with the legacy archive, and query performance work on the heaviest lists
-
-### 🚗 [AutoRent](https://github.com/Autorent-Project-2025)
-
-A car rental platform built on 15+ microservices, my KBTU diploma project (2025–2026).
-
-- **Backend:** C# / .NET and Go (Echo) microservices talking over RabbitMQ; PostgreSQL, Redis and MongoDB with a database per service; Docker and Grafana
-- **Frontend:** Vue.js apps for customers and for the internal CRM
-- **Features:** vehicle booking, dynamic pricing, CRM workflows, tickets and complaints, partner management, JWT auth with role-based access
 
 ## Tech stack
 

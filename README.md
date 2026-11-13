@@ -13,7 +13,6 @@
 
 ## About Myself
 
-- 💼 Full Stack Developer at **Abai Kazakh National Pedagogical University** (Abai Digital): university system on PHP (Yii2), Vue.js and MySQL
 - ⚙️ Backend is my strong side: services and REST APIs in **Go** (Echo, Gin), **PHP** (Yii2, Laravel) and **C# / .NET**
 - 🖼️ On the frontend I always use **Vue.js**: Vue 3, Pinia, Vite, TypeScript, Tailwind CSS
 - 🧩 Microservices and event-driven workflows with RabbitMQ; PostgreSQL, MySQL, MSSQL, Redis, MongoDB

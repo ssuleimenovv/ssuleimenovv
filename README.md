@@ -22,22 +22,6 @@
 - 📐 System analysis background: BPMN, ERD and UML diagrams, API specifications
 - 🎓 BSc in Computer Science, KBTU (2022–2026)
 
-## Projects
-
-**FlowScore – AI Football Analytics** · Sep 2026 – Present
-
-- Live analytics for the top-5 European leagues: a Go engine turns match events into an explainable "Flow Momentum" score and streams it over WebSockets
-- In-play Poisson win/draw/loss model and a logistic-regression xG model, trained in Python and ported to Go
-- LLM match commentary via Gemini, what-if red card simulator, shot maps; Vue.js frontend tested with Vitest and Playwright
-- `Go` `WebSocket` `PostgreSQL` `Python` `Vue.js` `TypeScript` `Three.js` `GitHub Actions` `Docker`
-
-**AutoRent Platform** · Sep 2025 – Jun 2026
-
-- Car-sharing platform of 15 microservices behind a single API gateway, with 3 Vue.js frontends and a database per service
-- Event-driven workflows over RabbitMQ with the outbox pattern, JWT/JWKS auth with RBAC, real-time chats via SignalR
-- AI services: LLM car search on Ollama with pgvector hybrid search, YOLOv8 damage detection
-- `ASP.NET Core` `Node.js` `FastAPI` `Vue.js` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Prometheus` `Grafana` `k6`
-
 ## Tech stack
 
 **Languages**

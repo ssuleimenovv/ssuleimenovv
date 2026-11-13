@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayan 👋</h1>
 
 <p align="center">
-  <b>Backend Developer · .NET · GO · PHP</b><br>
+  <b>Full Stack Developer · Go · PHP · .NET · Vue.js</b><br>
   Almaty, Kazakhstan
 </p>
 
@@ -13,11 +13,30 @@
 
 ## About Myself
 
-- ⚙️ Backend is my strong side: services and REST APIs in **C# / .NET**, **Go** (Echo, Gin) and **PHP** (Yii2, Laravel)
-- 🖼️ On the frontend I always use **Vue.js**: Vue 3, Pinia, Vite, Tailwind CSS
+- 💼 Full Stack Developer at **Abai Kazakh National Pedagogical University** (Abai Digital): university system on PHP (Yii2), Vue.js and MySQL
+- ⚙️ Backend is my strong side: services and REST APIs in **Go** (Echo, Gin), **PHP** (Yii2, Laravel) and **C# / .NET**
+- 🖼️ On the frontend I always use **Vue.js**: Vue 3, Pinia, Vite, TypeScript, Tailwind CSS
 - 🧩 Microservices and event-driven workflows with RabbitMQ; PostgreSQL, MySQL, MSSQL, Redis, MongoDB
+- 🚀 CI/CD and delivery: **GitLab CI/CD**, GitHub Actions, Jenkins, Docker; observability with Prometheus, Grafana, Loki and OpenTelemetry
+- 🤖 Applied AI/ML: xG and in-play win probability models, LLM features (Gemini, Ollama, pgvector), YOLOv8
 - 📐 System analysis background: BPMN, ERD and UML diagrams, API specifications
 - 🎓 BSc in Computer Science, KBTU (2022–2026)
+
+## Projects
+
+**FlowScore – AI Football Analytics** · Sep 2026 – Present
+
+- Live analytics for the top-5 European leagues: a Go engine turns match events into an explainable "Flow Momentum" score and streams it over WebSockets
+- In-play Poisson win/draw/loss model and a logistic-regression xG model, trained in Python and ported to Go
+- LLM match commentary via Gemini, what-if red card simulator, shot maps; Vue.js frontend tested with Vitest and Playwright
+- `Go` `WebSocket` `PostgreSQL` `Python` `Vue.js` `TypeScript` `Three.js` `GitHub Actions` `Docker`
+
+**AutoRent Platform** · Sep 2025 – Jun 2026
+
+- Car-sharing platform of 15 microservices behind a single API gateway, with 3 Vue.js frontends and a database per service
+- Event-driven workflows over RabbitMQ with the outbox pattern, JWT/JWKS auth with RBAC, real-time chats via SignalR
+- AI services: LLM car search on Ollama with pgvector hybrid search, YOLOv8 damage detection
+- `ASP.NET Core` `Node.js` `FastAPI` `Vue.js` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Prometheus` `Grafana` `k6`
 
 ## Tech stack
 
@@ -35,12 +54,16 @@
 **Backend frameworks**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=for-the-badge&logo=yii&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Databases**
 
@@ -49,6 +72,7 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Messaging & streaming**
 
@@ -65,29 +89,54 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=gsap&logoColor=black)
 
 **Data & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**CI/CD & DevOps**
+
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+
+**Observability & testing**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 
 **Engineering**
 
-REST API · SOAP · CRUD · Clean Architecture · OOP · Algorithms & Data Structures
+REST API · WebSocket · SOAP · Microservices · Event-driven (outbox pattern) · JWT / RBAC · Clean Architecture · OOP · Algorithms & Data Structures
